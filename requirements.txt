@@ -1,0 +1,4 @@
+celery
+pyTelegramBotAPI
+pytz
+redis
